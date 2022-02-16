@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 8b4dacb2-3c47-70bb-c727-df462d2dc267
 title: Essay 1
 uid: 1af29d03-7b21-817d-3671-0c8bab7ae742
