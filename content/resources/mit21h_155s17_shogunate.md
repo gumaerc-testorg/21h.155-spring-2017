@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 6077ab2e-fcd7-89f4-7bab-091926a966bc
 resourcetype: Document
 title: '21H.155S17 Modern Japan Lecture Slides: Overthrowing Shogunate'
 uid: b68d85f9-a92c-a440-3afa-aa2da4b763b7

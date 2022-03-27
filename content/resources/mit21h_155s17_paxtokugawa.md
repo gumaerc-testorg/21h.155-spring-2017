@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 6077ab2e-fcd7-89f4-7bab-091926a966bc
 resourcetype: Document
 title: '21H.155S17 Modern Japan Lecture Slides: Building PaxTokugawa'
 uid: 42af49c1-6874-6e96-326e-bc0c22d22a59

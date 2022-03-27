@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 6077ab2e-fcd7-89f4-7bab-091926a966bc
 resourcetype: Document
 title: '21H.155S17 Modern Japan Lecture Slides: Culture of Enlightenment'
 uid: d3d2754f-31ab-e3a9-c5fb-df773b0f8e11

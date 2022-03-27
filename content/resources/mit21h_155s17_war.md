@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 6077ab2e-fcd7-89f4-7bab-091926a966bc
 resourcetype: Document
 title: '21H.155S17 Modern Japan Lecture Slides: War Abroad and at Home'
 uid: 883f91e2-5bcb-fedf-6dd6-070ffad02703

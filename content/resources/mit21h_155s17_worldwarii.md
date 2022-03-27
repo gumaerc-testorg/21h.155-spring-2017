@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 6077ab2e-fcd7-89f4-7bab-091926a966bc
 resourcetype: Document
 title: "21H.155S17 Modern Japan Lecture Slides: Japan\u2019s \u201CWorld War II\u201D"
 uid: a1f73407-1f84-bcd7-9854-2ba3a8fc1557
