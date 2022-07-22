@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 8b4dacb2-3c47-70bb-c727-df462d2dc267
 ---
@@ -14,11 +18,11 @@ Essays
 
 During the course of the semester, each student will complete three essays (due during Sessions 7, 14, and 25). Each essay is designed to help students synthesize the topics and materials covered in lectures, in-class discussions, and assigned materials. 
 
-[Essay 1: Was late Tokugawa Japan actually in trouble?]({{< baseurl >}}/pages/assignments/essay-1)
+{{% resource_link 1af29d03-7b21-817d-3671-0c8bab7ae742 "Essay 1: Was late Tokugawa Japan actually in trouble?" %}}
 
-[Essay 2: Visualizing Modernity]({{< baseurl >}}/pages/assignments/essay-2)
+{{% resource_link 723a7480-7e2c-3f8b-bc5e-fb65fa496305 "Essay 2: Visualizing Modernity" %}}
 
-[Essay 3: A historically-informed review of a significant example of a post-WWII or contemporary Japanese cultural product]({{< baseurl >}}/pages/assignments/essay-3)
+{{% resource_link f2494458-3e07-29c5-1360-cc73d5ba97d5 "Essay 3: A historically-informed review of a significant example of a post-WWII or contemporary Japanese cultural product" %}}
 
 _Some Essay Tips_
 

@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains the instructions for Essay 2.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 8b4dacb2-3c47-70bb-c727-df462d2dc267
 title: Essay 2
 uid: 723a7480-7e2c-3f8b-bc5e-fb65fa496305

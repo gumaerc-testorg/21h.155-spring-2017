@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the course meeting times, prerequisites, and requirements
+  and expectations.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: bf5618bd-8da9-8edc-1ab5-9e4439708cc0
 ---
@@ -29,7 +33,7 @@ Recommended Text
 
 Gordon, Andrew. _A Modern History of Japan: From Tokugawa Times to the Present_. 3rd ed. Oxford University Press, 2013. ISBN: 9780199930159.
 
-For additional readings, see the [Readings]({{< baseurl >}}/pages/readings) section.
+For additional readings, see the {{% resource_link 60c01495-fdd7-5b4d-a43c-39e60e297cd7 "Readings" %}} section.
 
 Requirements and Expectations
 -----------------------------
@@ -102,7 +106,7 @@ Essay 3 (2,500 words)
 
 {{< tableclose >}}
 
-For detailed information on the presentations and the essays, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For detailed information on the presentations and the essays, see the {{% resource_link 8b4dacb2-3c47-70bb-c727-df462d2dc267 "Assignments" %}} section.
 
 Note on Japanese Names and Pronunciation
 ----------------------------------------
