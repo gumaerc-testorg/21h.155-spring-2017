@@ -6,6 +6,7 @@ file: /courses/21h-155-modern-japan-1868-to-present-spring-2017/a1f734071f84bcd7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "21H.155S17 Modern Japan Lecture Slides: Japan\u2019s \u201CWorld War II\
 uid: a1f73407-1f84-bcd7-9854-2ba3a8fc1557
 ---
 This resource contains information regarding modern Japan lecture slides: Japan’s “World War II”.
-
