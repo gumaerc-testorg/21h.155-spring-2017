@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding modern Japan lecture slides:
   Imperial democracy.'
-file: /courses/21h-155-modern-japan-1868-to-present-spring-2017/3e2e498fbe72c284d99939fafd571a39_MIT21H_155S17_ImperialDemo.pdf
+file: /ol-ocw-studio-app/courses/21h-155-modern-japan-1868-to-present-spring-2017/3e2e498fbe72c284d99939fafd571a39_MIT21H_155S17_ImperialDemo.pdf
 file_size: 6597554
 file_type: application/pdf
 learning_resource_types:
