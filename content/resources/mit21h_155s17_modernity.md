@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding modern Japan lecture slides:
   Visions of modernity.'
-file: /ol-ocw-studio-app/courses/21h-155-modern-japan-1868-to-present-spring-2017/29a36d8e639cd9df476e7617930127d7_MIT21H_155S17_Modernity.pdf
+file: /courses/21h-155-modern-japan-1868-to-present-spring-2017/29a36d8e639cd9df476e7617930127d7_MIT21H_155S17_Modernity.pdf
 file_size: 2189579
 file_type: application/pdf
 learning_resource_types:
