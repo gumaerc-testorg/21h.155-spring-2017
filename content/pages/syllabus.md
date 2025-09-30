@@ -26,7 +26,7 @@ How did a geopolitically isolated, “feudal” society become the first modern,
 Required Text
 -------------
 
-de Bary, William Theodore, Carol Gluck, and Arthur E. Tiedemann, eds. _Sources of Japanese Tradition, Volume 2, 1600 to 2000: Part 2: 1868 to 2000_. 2nd ed. Columbia University Press, 2006.  ISBN: 9780231139199. \[Preview with [Google Books](https://books.google.com/books?id=DsALRa-r5QoC&pg=PAfrontcover#v=onepage&q&f=false)\]
+de Bary, William Theodore, Carol Gluck, and Arthur E. Tiedemann, eds. _Sources of Japanese Tradition, Volume 2, 1600 to 2000: Part 2: 1868 to 2000_. 2nd ed. Columbia University Press, 2006.  ISBN: 9780231139199. \[Preview with {{% resource_link "29257281-bb29-46de-9137-f8bfabaaf511" "Google Books" %}}\]
 
 Recommended Text
 ----------------

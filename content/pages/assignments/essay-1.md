@@ -27,7 +27,7 @@ Your essay should be formatted in the following manner:
 *   12-pt. Times or Times New Roman font
 *   Double-spaced
 *   1-inch margin
-*   Citations given in footnotes in accordance with the [Chicago Manual of Style Citation Quick Guide](http://www.chicagomanualofstyle.org/tools_citationguide.html)
+*   Citations given in footnotes in accordance with the {{% resource_link "40174e6e-66a1-408a-9729-e4c8f76e65a7" "Chicago Manual of Style Citation Quick Guide" %}}
 *   Microsoft Word or PDF file
 
 The essay is due during Session 7.
