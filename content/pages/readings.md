@@ -10,7 +10,7 @@ uid: 60c01495-fdd7-5b4d-a43c-39e60e297cd7
 
 \[C\] = Cook, Haruko Taya, and Theodore F. Cook. _Japan at War: An Oral History_. New Press, 1992. ISBN: 9781565840393. 
 
-\[D\] = de Bary, William Theodore, Carol Gluck, and Arthur E. Tiedemann, eds. _Sources of Japanese Tradition, Volume 2, 1600 to 2000: Part 2: 1868 to 2000_. 2nd ed. Columbia University Press, 2006. ISBN: 9780231139199. \[Preview with [Google Books](https://books.google.com/books?id=DsALRa-r5QoC&pg=PAfrontcover&#v=onepage&q&f=false)\]
+\[D\] = de Bary, William Theodore, Carol Gluck, and Arthur E. Tiedemann, eds. _Sources of Japanese Tradition, Volume 2, 1600 to 2000: Part 2: 1868 to 2000_. 2nd ed. Columbia University Press, 2006. ISBN: 9780231139199. \[Preview with {{% resource_link "fc7f53b4-34f6-43e4-9f0b-581ae50dab0f" "Google Books" %}}\]
 
 \[G\] = Gordon, Andrew. _A Modern History of Japan: From Tokugawa Times to the Present_. 3rd ed. Oxford University Press, 2013. ISBN: 9780199930159.
 
@@ -108,7 +108,7 @@ _Recommended_
 Samurai Disorder
 {{< tdclose >}}
 {{< tdopen >}}
-de Bary, William Theodore, Carol Gluck, and Arthur E. Tiedemann, eds. "The Way of the Warrior II." Chapter 29 in _Sources of Japanese Tradition, Volume 2, 1600 to 2000: Part 1: 1600 to 1868_. 2nd ed. Columbia University Press, 2006. ISBN: 9780231139175. \[Preview with [Google Books](https://books.google.com/books?id=6O0bY4MRSpIC&pg=PA353=onepage#v=onepage&q&f=false)\]
+de Bary, William Theodore, Carol Gluck, and Arthur E. Tiedemann, eds. "The Way of the Warrior II." Chapter 29 in _Sources of Japanese Tradition, Volume 2, 1600 to 2000: Part 1: 1600 to 1868_. 2nd ed. Columbia University Press, 2006. ISBN: 9780231139175. \[Preview with {{% resource_link "8b9cce52-6112-4e55-9144-856478d44cab" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,15 +128,15 @@ Troubles at Home, Dangers from Abroad
 {{< tdopen >}}
 
 
-Aizawa Seishisai. "New Theses: One - Prefatory Remarks." In _Anti-Foreignism and Western Learning in Early-Modern Japan: The New Theses of 1825_. Edited by Bob Tadashi Wakabayashi. Harvard University Asia Center, 1992. ISBN: 9780674040373. \[Preview with [Google Books](https://books.google.com/books?id=__VSPmKQ6_kC&pg=PA149=onepage#v=onepage&q&f=false)\]
+Aizawa Seishisai. "New Theses: One - Prefatory Remarks." In _Anti-Foreignism and Western Learning in Early-Modern Japan: The New Theses of 1825_. Edited by Bob Tadashi Wakabayashi. Harvard University Asia Center, 1992. ISBN: 9780674040373. \[Preview with {{% resource_link "fe973048-7042-4ad5-8789-b10d2c60a067" "Google Books" %}}\]
 
-———. "New Theses: Four - What is Essential to a Nation \[Kokutai\] (III)." In _Anti-Foreignism and Western Learning in Early-Modern Japan: The New Theses of 1825_. Edited by Bob Tadashi Wakabayashi. Harvard University Asia Center, 1992. ISBN: 9780674040373. \[Preview with [Google Books](https://books.google.com/books?id=__VSPmKQ6_kC&pg=PA184=onepage#v=onepage&q&f=false)\]
+———. "New Theses: Four - What is Essential to a Nation \[Kokutai\] (III)." In _Anti-Foreignism and Western Learning in Early-Modern Japan: The New Theses of 1825_. Edited by Bob Tadashi Wakabayashi. Harvard University Asia Center, 1992. ISBN: 9780674040373. \[Preview with {{% resource_link "e35a62ac-97c7-4bc2-adc1-29ed57929236" "Google Books" %}}\]
 
 ———. "New Theses: Six - The Barbarians' Nature." In _Anti-Foreignism and Western Learning in Early-Modern Japan: The New Theses of 1825_. Edited by Bob Tadashi Wakabayashi. Harvard University Asia Center, 1992. ISBN: 9780674040373.
 
 Katsu Kokichi. "Introduction." In _Musui’s Story: The Autobiography of a Tokugawa Samurai_. University of Arizona Press, 1991. ISBN: 9780816512560.
 
-———. "Adult Years." In _Musui’s Story: The Autobiography of a Tokugawa Samurai_. University of Arizona Press, 1991. ISBN: 9780816512560. \[Preview with [Google Books](https://books.google.com/books?id=J4iiDEYziv0C&pg=PA71=onepage#v=onepage&q&f=false)\]
+———. "Adult Years." In _Musui’s Story: The Autobiography of a Tokugawa Samurai_. University of Arizona Press, 1991. ISBN: 9780816512560. \[Preview with {{% resource_link "f8e4715f-3194-4f3b-87a5-f429b8d3edd1" "Google Books" %}}\]
 
 _Recommended_
 
@@ -164,7 +164,7 @@ Overthrowing the Shogunate
 
 \[D\] Notehelfer, Fred G. Chapter 35: The Meiji Restoration, pp. 5–10. 
 
-[1852 Letter of President Fillmore to the Emperor of Japan](http://exploringhist.blogspot.com/2016/05/1852-Letter-of-Fillmore-to-Emperor-of-Japan.html). 
+{{% resource_link "d655f68d-f6ab-4014-bcd0-a3ab0c248e3b" "1852 Letter of President Fillmore to the Emperor of Japan" %}}. 
 
 "[Black Ship and Samurai II - Commodore Perry and the Opening of Japan (1853–1854): Visual Narratives and “The ‘Black Ship Scroll’](/ans7870/21f/21f.027/black_ships_and_samurai_02/index.html)." MIT Visualizing Cultures.
 
@@ -280,7 +280,7 @@ Democracy and Constitutional Government
 
 \[D\] Huffman, James. Chapter 37: Popular Rights and Constitutionalism.
 
-"[The Constitution of the Empire of Japan](http://www.ndl.go.jp/constitution/e/etc/c02.html)." 
+"{{% resource_link "355f021f-c35e-434b-b780-30cde04d04aa" "The Constitution of the Empire of Japan" %}}." 
 
 _Recommended_
 
@@ -466,7 +466,7 @@ The Allied Occupation
 
 \[D\] Mayo, Marlene. Chapter 44: The Occupation Years, 1945–1952, pp. 323–72.
 
-"[The Constitution of the Empire of Japan](http://www.ndl.go.jp/constitution/e/etc/c01.html)."
+"{{% resource_link "a7057fc1-f938-41ec-adca-a6e59301321a" "The Constitution of the Empire of Japan" %}}."
 
 _Recommended_
 
@@ -493,7 +493,7 @@ Week 11: Monsters, Imaginary and Real, in Postwar Japan
 18
 {{< tdclose >}}
 {{< tdopen >}}
-In-class Viewing: [_Gojira_](http://www.imdb.com/title/tt0047034/?ref_=nv_sr_2). Directed by Ishirô Honda. Color, 96 min. 1954.
+In-class Viewing: {{% resource_link "4324cf16-b3f1-442c-89b3-ca3470e07ce2" "_Gojira_" %}}. Directed by Ishirô Honda. Color, 96 min. 1954.
 {{< tdclose >}}
 {{< tdopen >}}
 No readings assigned
@@ -542,7 +542,7 @@ Vogel, Ezra F.  "A Mirror for America." Chapter 1 in _Japan as No. 1: Lessons f
 
 ———. "The Japanese Miracle." Chapter 2 in _Japan as No. 1: Lessons for America_. iUniverse, 1999. ISBN: 9781583484104. 
 
-McGray,Douglas. "[Japan’s Gross National Cool](http://foreignpolicy.com/2009/11/11/japans-gross-national-cool/)." _Foreign Policy,_ November 11, 2009.
+McGray,Douglas. "{{% resource_link "d6b1fce4-1c41-4c53-9cbd-d56e53b03bcd" "Japan’s Gross National Cool" %}}." _Foreign Policy,_ November 11, 2009.
 
 _Recommended_
 
@@ -562,7 +562,7 @@ Democracy in Theory and Practice
 {{< tdopen >}}
 
 
-Nakano Koichi. "[Contemporary Political Dynamics of Japanese Nationalism](http://apjjf.org/2016/20/Nakano.html)." _Asia-Pacific Journal: Japan Focus_ 14, Issue 20, no. 6 (October 15, 2016).
+Nakano Koichi. "{{% resource_link "a50a129e-3557-425d-8bb8-8e9c0939c545" "Contemporary Political Dynamics of Japanese Nationalism" %}}." _Asia-Pacific Journal: Japan Focus_ 14, Issue 20, no. 6 (October 15, 2016).
 
 _Recommended_
 
@@ -585,7 +585,7 @@ Week 13: History and Memory in Contemporary Japan
 22
 {{< tdclose >}}
 {{< tdopen >}}
-In-class Viewing: _[The Wind Rises](http://www.imdb.com/title/tt2013293/?ref_=nv_sr_1)_. Directed by Hayao Miyazaki.  Color, 126 min. 2013.
+In-class Viewing: _{{% resource_link "ca374a1b-d1ba-4c31-a767-b7a812159816" "The Wind Rises" %}}_. Directed by Hayao Miyazaki.  Color, 126 min. 2013.
 {{< tdclose >}}
 {{< tdopen >}}
 No readings assigned

@@ -322,7 +322,7 @@ Week 11: Monsters, Imaginary and Real, in Postwar Japan
 18
 {{< tdclose >}}
 {{< tdopen >}}
-In-class Viewing: [_Gojira_](http://www.imdb.com/title/tt0047034/?ref_=nv_sr_2). Directed by Ishirô Honda. Color, 96 min. 1954.
+In-class Viewing: {{% resource_link "4324cf16-b3f1-442c-89b3-ca3470e07ce2" "_Gojira_" %}}. Directed by Ishirô Honda. Color, 96 min. 1954.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -382,7 +382,7 @@ Week 13: History and Memory in Contemporary Japan
 22
 {{< tdclose >}}
 {{< tdopen >}}
-In-class Viewing: _[The Wind Rises](http://www.imdb.com/title/tt2013293/?ref_=nv_sr_1)_. Directed by Hayao Miyazaki.  Color, 126 min. 2013.
+In-class Viewing: _{{% resource_link "ca374a1b-d1ba-4c31-a767-b7a812159816" "The Wind Rises" %}}_. Directed by Hayao Miyazaki.  Color, 126 min. 2013.
 {{< tdclose >}}
 {{< tdopen >}}
  
